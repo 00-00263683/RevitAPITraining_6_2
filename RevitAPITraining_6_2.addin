@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RevitAPITraining_6_2.dll"</Assembly>		
+		<AddInId>1938F808-A72F-4F46-9734-850E3233D83A</AddInId>
+		<FullClassName>RevitAPITraining_6_2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>6-2 Расстановка элементов</Text>
+	</AddIn>
+</RevitAddIns>
